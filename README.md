@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏾
 
 I'm Joan from Nairobi, Kenya and I'm a junior data analyst learning software engineering and graphic design. I also love literature and cinema.
 
