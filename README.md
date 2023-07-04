@@ -19,6 +19,4 @@ Skills: HTML . CSS . Canva . R . C . SQL
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joanweru&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=joanweru)  
-
 ![GitHub metrics](https://metrics.lecoq.io/joanweru)  
