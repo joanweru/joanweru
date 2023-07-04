@@ -6,7 +6,7 @@
 
 ### About me
 
-I'm based in Nairobi, Kenya. I've always had a knack more abstract, analytical and quantitative skills like: math, statistics, analysis and coding. But I also love more creative and visual activities like graphic design and writing. I guess you could say, I'm a jack of all trades😉.
+I'm based in Nairobi, Kenya. I've always had a knack more abstract, analytical and quantitative stuff like: math, statistics, analytics and coding. But I also love more creative and visual stuff like graphic design and writing. I guess you could say, I'm a jack of all trades😉.
 
 Skills: HTML . CSS . Canva . R . C . SQL
 
