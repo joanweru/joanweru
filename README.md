@@ -1,7 +1,10 @@
-### Hi there 👋🏾
+### Hi there 🍃
 
-#### I'm Junior data analyst learning software engineering
+### I'm a junior data analyst learning software engineering
+
 <a href="https://ibb.co/5jq9cLF"><img src="https://i.ibb.co/VCXNBTm/Green-Blobs-Basic-Simple-Presentation.png" alt="Green-Blobs-Basic-Simple-Presentation" border="0"></a>
+
+### About me
 
 I'm based in Nairobi, Kenya. I've always had a knack more abstract, analytical and quantitative skills like: math, statistics, analysis and coding. But I also love more creative and visual activities like graphic design and writing. I guess you could say, I'm a jack of all trades😉.
 
