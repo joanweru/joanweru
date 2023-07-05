@@ -6,7 +6,7 @@
 
 ### About me
 
-I'm a 24 year old junior data analysis,based in Nairobi, Kenya. I've always had a knack more abstract, analytical and quantitative stuff like: math, statistics, analytics and coding. But I also love more creative and visual stuff like graphic design and writing. I guess you could say, I'm a jack of all trades😉.
+I'm a 24 year old junior data analyst, based in Nairobi, Kenya. I've always had a knack more abstract, analytical and quantitative stuff like: math, statistics, analytics and coding. But I also love more creative and visual stuff like graphic design and writing. I guess you could say, I'm a jack of all trades😉.
 
 Skills: HTML . CSS . Canva . R . C . SQL
 
