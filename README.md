@@ -1,4 +1,4 @@
-### Hi there 🍃
+### Hi there 🍃☕
 
 ### I'm Joan, a junior data analyst learning software engineering
 
