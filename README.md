@@ -6,7 +6,8 @@
 
 ### About me
 
-I'm a 24 year old junior data analyst, based in Nairobi, Kenya. I've always had a knack more abstract, analytical and quantitative stuff like: math, statistics, analytics and coding. But I also love more creative and visual stuff like graphic design and writing. I guess you could say I'm curious about everything. I love learning and exploring new ideas more than anything. My goal is to become better at coding and understanding programs and eventually build something of my own. You can contact me via email or on any of my social media accounts. I am particularly interested in being mentored on software engineering.
+I'm a 24 year old junior data analyst, based in Nairobi, Kenya. I've always had a knack for analytical and quantitative subjects like: math, statistics, analytics and programming. On the flip side, I'm also interested in creative and visual pursuits like graphic design and writing. I suppose you could say I have an insatiable curiosity. I love learning and exploring new ideas more than anything. My goal is to become better at coding and deepen my understanding of different programs and eventually build something of my own. 
+You can contact me via email or on any of my social media accounts. I am particularly interested in being mentored on software engineering.  
 
 Skills: `HTML` . `CSS` . `Canva` . `R` . `C`. `SQL`
 
